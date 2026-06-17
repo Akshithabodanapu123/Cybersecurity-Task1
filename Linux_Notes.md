@@ -53,3 +53,13 @@ Displays active network connections.
 ## Conclusion
 
 Linux is an essential operating system for cybersecurity professionals because it provides powerful tools for networking, security testing, and system administration.
+
+# Cybersecurity Concepts
+
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](screenshots/Linux_Notes_1.png)
+
+### Screenshot 2
+![Screenshot 2](screenshots/Linux_Notes_2.png)
