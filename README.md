@@ -135,3 +135,7 @@ Through this task, I gained foundational knowledge in cybersecurity, Linux, netw
 ## Conclusion
 
 Task 1 provided a strong foundation in cybersecurity and prepared me for advanced topics in network security, vulnerability assessment, web application security, and penetration testing.
+
+---
+## Screenshots
+All screenshots related to the task are stored in the screenshots folder.
