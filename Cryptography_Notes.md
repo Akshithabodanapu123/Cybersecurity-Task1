@@ -45,3 +45,13 @@ Used to verify the identity of websites and establish secure connections.
 ## Conclusion
 
 Cryptography helps protect sensitive information and ensures confidentiality, integrity, and secure communication.
+
+# Cybersecurity Concepts
+
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](screenshots/cryptography_Notes_1.png)
+
+### Screenshot 2
+![Screenshot 2](screenshots/cryptography_Notes_2.png)
